@@ -1,0 +1,14 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "api rest for feeding dcjs graphs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "federico molina",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
